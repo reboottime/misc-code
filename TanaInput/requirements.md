@@ -2,5 +2,6 @@
 
 ## Testing List
 
-- create node with checkbox
-- create tasks with project referencing
+- [x] create something in Inbox
+- [ ] create node with checkbox
+- [ ] create tasks with project referencing
