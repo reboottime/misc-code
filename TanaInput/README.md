@@ -1,6 +1,7 @@
 # README
 
-About: Save data to into Tana
+About: Save data to into Tana. Please follow [official doc about input api to learn more](https://tana.inc/docs/input-api).
+[Solution provided by Tana Inc](https://github.com/tanainc/tana-input-api-samples/tree/main)
 
 ## **Step 1: Get Your Tana API Token**
 
