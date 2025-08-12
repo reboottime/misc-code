@@ -6,7 +6,7 @@ About: Save data to into Tana
 
 You need an API token to work with the Input API. Tokens are assigned per workspace and can be generated in the Tana client:
 
-- In the lower left corner of Tana, go Settings > API Tokens  
+- In web browser platform, in the lower left corner of Tana, go Settings > API Tokens  
 - Select which workspace you want to create a token for, and click Create token
 - Click Copy to copy the token you just created
 
